@@ -95,7 +95,8 @@ This was not just a deployment task — it reflects:
 | Jenkins CI/CD View | Grafana Dashboard | ArgoCD Sync |
 |---------------------|-------------------|--------------|
 | <img width="1305" height="157" alt="Screenshot 2025-08-03 at 6 53 51 PM" src="https://github.com/user-attachments/assets/45b905b7-ceb1-4772-bd11-c3fe71342c46" />
- | ![](./assets/grafana-dashboard.png) | ![](./assets/argocd-ui.png) |
+ | <img width="1511" height="861" alt="Screenshot 2025-08-03 at 6 59 53 PM" src="https://github.com/user-attachments/assets/6be5d5c6-5ba3-4eda-a788-11e482aaa847" />
+ | ![](./assets/argocd-ui.png) |
 
 ---
 
