@@ -92,12 +92,16 @@ This was not just a deployment task — it reflects:
 
 ## 📸 Screenshots
 
-| Jenkins CI/CD View | Grafana Dashboard | ArgoCD Sync |
-|---------------------|-------------------|--------------|
-| <img width="1305" height="157" alt="Screenshot 2025-08-03 at 6 53 51 PM" src="https://github.com/user-attachments/assets/45b905b7-ceb1-4772-bd11-c3fe71342c46" />
- | <img width="1512" height="777" alt="Screenshot 2025-08-03 at 6 59 42 PM" src="https://github.com/user-attachments/assets/759681b8-3a94-47cc-b0b7-6e77de2353f7" />
+### Jenkins CI/CD View
+<img width="1305" height="157" alt="Screenshot 2025-08-03 at 6 53 51 PM" src="https://github.com/user-attachments/assets/45b905b7-ceb1-4772-bd11-c3fe71342c46" />
 
- | ![](./assets/argocd-ui.png) |
+### Grafana Dashboard
+<img width="1512" height="777" alt="Screenshot 2025-08-03 at 6 59 42 PM" src="https://github.com/user-attachments/assets/759681b8-3a94-47cc-b0b7-6e77de2353f7" />
+<img width="1511" height="861" alt="Screenshot 2025-08-03 at 6 59 53 PM" src="https://github.com/user-attachments/assets/bce91448-ebd6-4329-9c6f-d00bfdcefc5d" />
+
+
+
+### ArgoCD Sync
 
 ---
 
