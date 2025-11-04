@@ -123,7 +123,7 @@ Netflix-DevOps/
 
 ## 🙋‍♂️ About Me
 
-Developed and maintained by [**Dhrumit Savaliya**](https://github.com/Dhrumit26)  
+Developed and maintained by [**Dhrumit Savaliya**](https://github.com/Dhrumit26)  [**Smit Lila**](https://github.com/Smitlila)
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/dhrumitvekariya)  
 🛠 Passionate about DevOps | Cloud | Automation | CI/CD | Kubernetes
 
