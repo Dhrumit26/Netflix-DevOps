@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone - DevSecOps Cloud Project
 
-This project demonstrates a fully integrated **DevSecOps pipeline** to build, secure, deploy, and monitor a Netflix clone application on **AWS EC2 and Kubernetes**. It combines the power of **CI/CD, Container Security, GitOps, and Observability**, showing how a modern software delivery pipeline should function in production.
+This project demonstrates a fully integrated **DevSecOps pipeline** to build, secure, deploy, and monitor a Netflix clone application on **AWS EC2 and Kubernetes**. It combines the power of **CI/CD, Container Security, GitOps, and Observability**, showing how a modern software delivery pipeline should function in production
 
 <p align="center">
   <img width="1101" height="696" alt="Screenshot 2025-08-03 at 4 06 46 PM" src="https://github.com/user-attachments/assets/c7e7c1f9-f0e4-44e7-95df-88c0c2b44c95" />
